@@ -1,13 +1,6 @@
 import "./others.css";
+import React from "react";
 
 export default function Others() {
-  return (
-    <div className="others">
-      <div className="othersWrapper">
-        <div className="othersMenu">
-          <div className="othersTitle">Others</div>
-        </div>
-      </div>
-    </div>
-  );
+  return <div className="others"></div>;
 }

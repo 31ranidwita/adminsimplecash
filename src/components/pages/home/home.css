@@ -1,0 +1,20 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.contentContainer {
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+
+.othersContainer {
+  flex: 1; /* Set flex agar Others mengambil sisa ruang yang tersedia */
+  padding: 480px;
+  width: 250px;
+  background-color: #dcf2f1; /* Sesuaikan padding sesuai kebutuhan */
+}
+
+/* Style lainnya sesuai kebutuhan */
