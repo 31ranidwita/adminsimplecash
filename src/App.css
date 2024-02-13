@@ -1,8 +1,8 @@
-.container{
-    display: flex;
+.container {
+  display: flex;
 }
 
-.others{
-    flex: 4.5;
-    background-color: #DCF2F1;
+.others {
+  flex: 4.5;
+  background-color: #dcf2f1;
 }

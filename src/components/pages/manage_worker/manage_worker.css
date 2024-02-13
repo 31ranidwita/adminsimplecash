@@ -1,0 +1,14 @@
+.page-worker-table {
+  background-color: #dcf2f1;
+  height: 100vh;
+}
+
+.content {
+  display: flex;
+  width: 50%;
+  margin-left: 31em;
+}
+
+.table-worker {
+  margin-top: 150px;
+}
